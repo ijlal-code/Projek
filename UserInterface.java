@@ -124,6 +124,8 @@ public class UserInterface {
                     System.exit(0);
                 }
                     break;
+                    default:
+                    System.out.println("Pilihan tidak valid! Silakan pilih kembali.");
             }
         }
 
